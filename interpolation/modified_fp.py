@@ -28,4 +28,4 @@ while True:
             fb = 0.5 * fb
     pfc = fc
 
-print(c, func(c)
+print(c, func(c))
